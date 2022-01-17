@@ -1,0 +1,79 @@
+
+svg{
+    width: 20px;
+    height: 20px;
+    color: whitesmoke;
+    padding-bottom: 2px;
+}
+
+#mainhead{
+    background-color: red !important;
+    color: whitesmoke;
+    width: 200px;
+    padding-left:5px;
+}   
+
+.contact {
+     list-style-type: none;
+     text-align: right;
+     background-color: red;
+     height: 40px;
+     padding:5px 10px 0px 10px;
+    
+}
+
+.contact li a{
+    color: whitesmoke;
+}
+
+#contactus {
+    list-style-type: none;
+    background-color: red;
+    height: 40px;
+    padding:5px 10px 0px 10px;
+    color: whitesmoke;
+   
+}
+
+.container-fluid{
+    background: url(https://i.pinimg.com/originals/70/20/de/7020de8a44a61936cecc549b0be5e69f.png);
+}
+
+.navbar{
+    background-color: gray;
+    box-shadow: 2px 2px 5px 5px red;
+}
+
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: gray;
+    box-shadow: 2px 2px 5px 5px red;
+}
+.input{
+    margin:50px auto;    
+}
+
+input{
+    width: 80%;
+    margin-top: 50px !important;
+    margin: 0px 10% !important;
+}
+
+p{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+
+}
+button{
+    background-color: red;
+    color: whitesmoke;
+    width: 50%;
+   text-align: center;
+   margin-left: 120px !important;
+   margin-top: 5px !important;
+}
+h6{
+    margin-bottom: 30px !important;
+}
